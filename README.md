@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://mokadami-olexus.github.io/.github/altrady-app">  
+<a href="https://osx-get-software.github.io/.github/altrady-app">  
 <img src="https://img.shields.io/badge/⬇️_Get_Altrady_on_macOS-blue?style=for-the-badge&logo=apple" alt="Altrady App macOS">  
 </a>  
 
